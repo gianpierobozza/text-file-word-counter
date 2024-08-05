@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# TypeScript
+dist/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Optional eslint cache
+.eslintcache
+
+# MacOS
+.DS_Store
+
+# Environment variables
+.env
